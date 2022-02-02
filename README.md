@@ -1,0 +1,1 @@
+This is my first project in "the odin project" course , it will be a build of a basic website
